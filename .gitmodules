@@ -1,3 +1,15 @@
 [submodule "diploma_bridge"]
 	path = diploma_bridge
 	url = git@github.com:angpysha/diploma_bridge.git
+[submodule "diploma-jni"]
+	path = diploma-jni
+	url = git@github.com:angpysha/diploma-jni.git
+[submodule "diploma-raspberry"]
+	path = diploma-raspberry
+	url = git@github.com:angpysha/diploma-raspberry.git
+[submodule "diploma-android"]
+	path = diploma-android
+	url = git@github.com:angpysha/diploma-android.git
+[submodule "diploma-nodejs"]
+	path = diploma-nodejs
+	url = git@github.com:angpysha/diploma-nodejs.git
