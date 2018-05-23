@@ -1,0 +1,3 @@
+[submodule "diploma_bridge"]
+	path = diploma_bridge
+	url = git@github.com:angpysha/diploma_bridge.git
