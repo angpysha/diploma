@@ -13,3 +13,6 @@
 [submodule "diploma-nodejs"]
 	path = diploma-nodejs
 	url = git@github.com:angpysha/diploma-nodejs.git
+[submodule "diploma-api"]
+	path = diploma-api
+	url = git@github.com:angpysha/diploma-api.git
